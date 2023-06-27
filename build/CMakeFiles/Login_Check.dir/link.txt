@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Login_Check.dir/src/Login_Cheak.cpp.o -o ../CGI_bin/Login_Check  /usr/lib/x86_64-linux-gnu/libspdlog.so.1.9.2 -lfcgi -lfdfsclient -lmysqlclient /usr/lib/x86_64-linux-gnu/libfmt.so.8.1.1 -Wl,--as-needed 
