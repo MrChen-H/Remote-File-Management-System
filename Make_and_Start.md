@@ -7,12 +7,13 @@
 
 2. 进入build文件夹(自动生成)执行make命令
 
+        cd build
         make
 
 ## 启动
 1. 创建 MySQL 表(server_sql.sql)
 
-        mysql -u root -p your_password server_sql.sql
+        mysql -u your_user_name -p your_password server_sql.sql
 
 2. 执行Server_Start脚本 
 
