@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Cancel_Shared_File.dir/src/cancel_shared_file.cpp.o -o ../CGI_bin/Cancel_Shared_File  /usr/lib/x86_64-linux-gnu/libspdlog.so.1.9.2 -lfcgi -lfdfsclient -lmysqlclient /usr/lib/x86_64-linux-gnu/libfmt.so.8.1.1 -Wl,--as-needed 
