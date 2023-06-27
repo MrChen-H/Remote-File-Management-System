@@ -15,7 +15,7 @@
 
 # 项目演示
 ## 登录
-![](./Resource/login.gif)
+![]([./Resource/login.gif](https://github.com/MrChen-H/CGI_Program/blob/master/Resource/download.gif))
 
 <br>
 <br>
