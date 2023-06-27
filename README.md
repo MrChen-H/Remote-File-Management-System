@@ -15,21 +15,21 @@
 
 # 项目演示
 ## 登录
-![](https://github.com/MrChen-H/CGI_Program/blob/master/Resource/login.gif)
+![](https://img1.imgtp.com/2023/06/27/30feTHya.gif)
 
 <br>
 <br>
 <br>
 
 ## 上传文件
-![](https://github.com/MrChen-H/CGI_Program/blob/master/Resource/upload.gif)
+![](https://img1.imgtp.com/2023/06/27/QCsdIMSY.gif)
 
 <br>
 <br>
 <br>
 
 ## 文件秒传
-![](https://github.com/MrChen-H/CGI_Program/blob/master/Resource/fast_upload.gif)
+![](https://img1.imgtp.com/2023/06/27/ayn3wEWe.gif)
 
 <br>
 <br>
@@ -37,7 +37,7 @@
 
 
 ## 下载文件
-![](https://github.com/MrChen-H/CGI_Program/blob/master/Resource/download.gif)
+![](https://img1.imgtp.com/2023/06/27/8qUV2WLe.gif)
 
 <br>
 <br>
@@ -45,7 +45,7 @@
 
 
 ## 共享与取消共享文件
-![](https://github.com/MrChen-H/CGI_Program/blob/master/Resource/shared%26cancel.gif)
+![](https://img1.imgtp.com/2023/06/27/VBuM5pqp.gif)
 
 <br>
 <br>
@@ -53,7 +53,7 @@
 
 
 ## 其他
-![](https://github.com/MrChen-H/CGI_Program/blob/master/Resource/other.gif)
+![](https://img1.imgtp.com/2023/06/27/JHmExXpa.gif)
 
 <br>
 <br>
