@@ -15,7 +15,7 @@
 
 # 项目演示
 ## 登录
-![]([./Resource/login.gif](https://github.com/MrChen-H/CGI_Program/blob/master/Resource/download.gif))
+![](https://github.com/MrChen-H/CGI_Program/blob/master/Resource/download.gif)
 
 <br>
 <br>
@@ -23,7 +23,7 @@
 
 
 ## 上传文件
-![](./Resource/upload.gif)
+![]()
 
 <br>
 <br>
@@ -31,7 +31,7 @@
 
 
 ## 下载文件
-![](./Resource/download.gif)
+![]()
 
 <br>
 <br>
@@ -39,7 +39,7 @@
 
 
 ## 共享与取消共享文件
-![](./Resource/shared%26cancel.gif)
+![]()
 
 <br>
 <br>
@@ -47,7 +47,7 @@
 
 
 ## 其他
-![](./Resource/other.gif)
+![]()
 
 <br>
 <br>
